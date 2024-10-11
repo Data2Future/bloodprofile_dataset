@@ -1,7 +1,3 @@
-Certainly! Below is an extended version of the **`README.md`** for your GitHub project, which now includes **machine learning code samples** to help train models and predict outcomes based on the blood profile dataset.
-
----
-
 # Blood Profile Dataset for Data Science & Machine Learning
 
 ![Blood Profile](https://via.placeholder.com/1200x400.png?text=Blood+Profile+Data+Visualization)
